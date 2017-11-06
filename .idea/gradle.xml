@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lesson071" />
+            <option value="$PROJECT_DIR$/lesson072" />
+            <option value="$PROJECT_DIR$/lesson073" />
+            <option value="$PROJECT_DIR$/lesson074" />
+            <option value="$PROJECT_DIR$/lesson075" />
+            <option value="$PROJECT_DIR$/lesson076" />
+            <option value="$PROJECT_DIR$/lesson077" />
+            <option value="$PROJECT_DIR$/lesson078" />
+            <option value="$PROJECT_DIR$/lesson079" />
+            <option value="$PROJECT_DIR$/lesson080" />
+            <option value="$PROJECT_DIR$/lesson081" />
+            <option value="$PROJECT_DIR$/lesson082" />
+            <option value="$PROJECT_DIR$/lesson083" />
+            <option value="$PROJECT_DIR$/lesson084" />
+            <option value="$PROJECT_DIR$/lesson085" />
+            <option value="$PROJECT_DIR$/lesson086" />
+            <option value="$PROJECT_DIR$/lesson087" />
+            <option value="$PROJECT_DIR$/lesson088" />
+            <option value="$PROJECT_DIR$/lesson089" />
+            <option value="$PROJECT_DIR$/lesson090" />
+            <option value="$PROJECT_DIR$/lesson091" />
+            <option value="$PROJECT_DIR$/lesson092" />
+            <option value="$PROJECT_DIR$/lesson093" />
+            <option value="$PROJECT_DIR$/lesson094" />
+            <option value="$PROJECT_DIR$/lesson094_1" />
+            <option value="$PROJECT_DIR$/lesson094_2" />
+            <option value="$PROJECT_DIR$/lesson095" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

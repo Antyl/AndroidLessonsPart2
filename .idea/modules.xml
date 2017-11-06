@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLessons(part2).iml" filepath="$PROJECT_DIR$/AndroidLessons(part2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson071/lesson071.iml" filepath="$PROJECT_DIR$/lesson071/lesson071.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson072/lesson072.iml" filepath="$PROJECT_DIR$/lesson072/lesson072.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson073/lesson073.iml" filepath="$PROJECT_DIR$/lesson073/lesson073.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson074/lesson074.iml" filepath="$PROJECT_DIR$/lesson074/lesson074.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson075/lesson075.iml" filepath="$PROJECT_DIR$/lesson075/lesson075.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson076/lesson076.iml" filepath="$PROJECT_DIR$/lesson076/lesson076.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson077/lesson077.iml" filepath="$PROJECT_DIR$/lesson077/lesson077.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson078/lesson078.iml" filepath="$PROJECT_DIR$/lesson078/lesson078.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson079/lesson079.iml" filepath="$PROJECT_DIR$/lesson079/lesson079.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson080/lesson080.iml" filepath="$PROJECT_DIR$/lesson080/lesson080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson081/lesson081.iml" filepath="$PROJECT_DIR$/lesson081/lesson081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson082/lesson082.iml" filepath="$PROJECT_DIR$/lesson082/lesson082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson083/lesson083.iml" filepath="$PROJECT_DIR$/lesson083/lesson083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson084/lesson084.iml" filepath="$PROJECT_DIR$/lesson084/lesson084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson085/lesson085.iml" filepath="$PROJECT_DIR$/lesson085/lesson085.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson086/lesson086.iml" filepath="$PROJECT_DIR$/lesson086/lesson086.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson087/lesson087.iml" filepath="$PROJECT_DIR$/lesson087/lesson087.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson088/lesson088.iml" filepath="$PROJECT_DIR$/lesson088/lesson088.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson089/lesson089.iml" filepath="$PROJECT_DIR$/lesson089/lesson089.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson090/lesson090.iml" filepath="$PROJECT_DIR$/lesson090/lesson090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson091/lesson091.iml" filepath="$PROJECT_DIR$/lesson091/lesson091.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson092/lesson092.iml" filepath="$PROJECT_DIR$/lesson092/lesson092.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson093/lesson093.iml" filepath="$PROJECT_DIR$/lesson093/lesson093.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson094/lesson094.iml" filepath="$PROJECT_DIR$/lesson094/lesson094.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson094_1/lesson094_1.iml" filepath="$PROJECT_DIR$/lesson094_1/lesson094_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson094_2/lesson094_2.iml" filepath="$PROJECT_DIR$/lesson094_2/lesson094_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson095/lesson095.iml" filepath="$PROJECT_DIR$/lesson095/lesson095.iml" />
+    </modules>
+  </component>
+</project>
